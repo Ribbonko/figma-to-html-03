@@ -594,3 +594,32 @@ a {
   font-weight: 400;
   line-height: normal;
 }
+
+/* ====================================== Appointment ============================  */
+.appoiment {
+  margin: 85px 0;
+}
+
+.appoiment__inner {
+  padding: 100px 175px;
+  background: #f6fbff;
+  text-align: center;
+}
+
+.appoiment__heading::after {
+  content: "";
+  display: block;
+  margin: 18px auto 0;
+  width: 136px;
+  height: 2px;
+  background: #2e80ce;
+}
+
+.appoiment__desc {
+  max-width: 617px;
+  margin: 18px auto 0;
+}
+
+.appoiment__btn {
+  margin-top: 38px;
+}

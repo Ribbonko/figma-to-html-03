@@ -167,7 +167,6 @@ a {
 }
 
 .hero__heading {
-  width: 517px;
   color: #fff;
   font-size: 7rem;
   font-weight: 600;
@@ -177,7 +176,6 @@ a {
 
 .hero__desc {
   margin-top: 22px;
-  width: 468px;
   color: #c9d2da;
   font-size: 1.8rem;
   font-weight: 300;

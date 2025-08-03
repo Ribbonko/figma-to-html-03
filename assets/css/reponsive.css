@@ -296,3 +296,10 @@
     margin-top: 20px;
   }
 }
+
+/* Ko tràn viền */
+html,
+body {
+  overflow-x: hidden;
+  max-width: 100%;
+}
